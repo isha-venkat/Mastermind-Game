@@ -39,7 +39,6 @@ The Raspberry Pi acts as the **codekeeper**, and the player acts as the **codebr
   - Number of colour-only matches
 - Displays result on LCD
 - "SUCCESS" message on correct guess
-- Supports 3 pegs and 3 colours (1 = Red, 2 = Green, 3 = Blue)
 
 ---
 
